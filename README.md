@@ -19,3 +19,7 @@
 ## 関連
 
 - [umayado17/air-md](https://github.com/umayado17/air-md)：4 の AIR.md の方法。AIR.md の運用はこちらが正本です
+
+## ライセンス
+
+[MIT](LICENSE)
